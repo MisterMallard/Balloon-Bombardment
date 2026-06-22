@@ -14,3 +14,6 @@
 
 # Game 
 ## Te veel github probleemen zie mij voor het spel
+
+# GIF
+<img width="650" height="676" alt="obraz" src="Recording 2026-06-22 105942.gif"/>
