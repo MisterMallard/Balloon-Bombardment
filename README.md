@@ -11,3 +11,6 @@
 
 # Feedback
 ## the player gets score from the balloons which are added to their total score
+
+# Game 
+## Te veel github probleemen zie mij voor het spel
